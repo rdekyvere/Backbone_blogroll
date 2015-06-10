@@ -3,6 +3,4 @@ Studieproject, maken van een bloglijst webapp in BackboneJS dat data opslaat in 
 
 Startfile: Backbone_blogroll\public\index.html
 
-Gebruikte technologieën : Bower, jQuery, Backbone.JS, Bootstrap, MongoDB, Mongoose, 
-
-Node.js, Underscore, Express
+Gebruikte technologieën : Bower, jQuery, Backbone.JS, Bootstrap, MongoDB, Mongoose, Node.js, Underscore, Express
