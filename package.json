@@ -1,0 +1,17 @@
+{
+  "name": "blogroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.0.0",
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.5"
+  }
+}
